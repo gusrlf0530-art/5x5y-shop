@@ -1,7 +1,7 @@
 export const products = [
   {
     id: "p001",
-    name: "I want to go home",
+    name: "HELLO",
     price: 179000,
     category: "Outer",
     color: "Black",
