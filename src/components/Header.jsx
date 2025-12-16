@@ -10,7 +10,7 @@ export default function Header() {
     <header className="header">
       <div className="container header__inner">
         <button className="brand" onClick={() => navigate("/")}>
-          NOIR STUDIO
+          I want to go home
         </button>
 
         <nav className="nav">
